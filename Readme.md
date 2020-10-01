@@ -50,6 +50,7 @@ There are 38 different types of cars available. Toyota is the most common,and Hu
 
 There are 6 different types of cars:
 | Type | Number available |
+| -----| ---------------- |
 | Sedan | 262 |
 | SUV | 60 |
 | Sports | 49 |
